@@ -2,12 +2,16 @@
 layout: page
 title: About
 ---
-
+<body class="theme-base-0b"></body>
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hi! My name is Jeonghoon Lee. This blog is to post about my research projects, personal projects, and notes. Welcome!
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I am currently majoring Computer Engineering at Georgia Institute of Technology and Electrical Engineering at Korea Advanced Institute of Sience and Technology (KAIST). 
+
+My lifelong goal is to contribute to agricultural revolution which I believe will be done through integration with sensors/actuators, data analysis, and systems to encompass and optimize the two.
+
+
 
 There are currently two themes built on Poole:
 
