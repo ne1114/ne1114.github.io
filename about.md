@@ -6,6 +6,9 @@ title: About
   Hi! My name is Jeonghoon Lee. This blog is to post about my research projects, personal projects, and notes. Welcome!
 </p>
 
+<p align="center">
+  <img width="230" height="300" src="{{ site.url }}/public/images/former.jpg">
+</p>
 I am currently majoring Computer Engineering at Georgia Institute of Technology and Electrical Engineering at Korea Advanced Institute of Sience and Technology (KAIST). 
 
 My lifelong goal is to contribute to agricultural revolution and benefit the human nation both directly and indirectly. There have been multiple revolutions to agriculture throughout history, transition from foraging to farming, invention of engines, Haber-Bosch process, and genetic modification. I believe the next era of agriculture will be driven through integration with sensors/actuators, data analysis and the systems to encompass and optimize the two.

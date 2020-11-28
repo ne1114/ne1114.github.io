@@ -6,9 +6,6 @@ baseurl:             ''
 paginate:            5
 permalink:           pretty
 
-# Profile image
-gravatar_md5: 79c85837c3a18e52641ab32e3ba9c7d6
-
 # About/contact
 author:
   name:              Jeonghoon Lee
